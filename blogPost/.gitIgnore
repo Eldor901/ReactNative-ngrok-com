@@ -1,0 +1,18 @@
+.idea
+jsonServer/node_modules
+
+blog/node_modules/**/*
+blog/.expo/*
+blog/npm-debug.*
+blog/*.jks
+blog/*.p8
+blog/*.p12
+blog/*.key
+blog/*.mobileprovision
+blog/*.orig.*
+blog/web-build/
+blog/web-report/
+
+# macOS
+blog/.DS_Store
+blog/.idea
